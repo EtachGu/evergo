@@ -17,7 +17,7 @@ title: EverGo
 email: detached_gu@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   EverGo is a personal blog focused on facilitating the spread of knowledge and innovation in professional software development.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "evergo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  EtachGu
